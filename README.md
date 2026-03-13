@@ -1,7 +1,12 @@
 # TWOSTEPSAHEAD - Machine Learning Integration in Forecasting Landslides
 ## App Name - Two Steps Ahead
+## Team NAme - Team CITBoyz
 ## Team Members 
-- Erik A
+- Erik Agabon
+- Daniel Jun Lamaton
+- Ranmie Montecalvo
+- Christian Dela Torre
+- Gian Frans Araneta
 ## Description
 Recent advancements in the Philippines on landslides have primarily focused on susceptibility mapping and generation of hazard maps. Whereas, development on landslide forecasting remains less explored. As Machine Learning and AI, continues to progress, forecasting methods have become more advanced, allowing opportunities to predict landslide occurrences before they happen. 
 
