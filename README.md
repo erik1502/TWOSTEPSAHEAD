@@ -1,11 +1,16 @@
-# RANDOM FOREST IN FORECASTING RAIN-INDUCED LANDSLIDES
+# TWOSTEPSAHEAD - Machine Learning Integration in Forecasting Landslides
+## App Name - Two Steps Ahead
+## Team Members 
+- Erik A
+## Description
+Recent advancements in the Philippines on landslides have primarily focused on susceptibility mapping and generation of hazard maps. Whereas, development on landslide forecasting remains less explored. As Machine Learning and AI, continues to progress, forecasting methods have become more advanced, allowing opportunities to predict landslide occurrences before they happen. 
 
-## Abstract
-Recent studies in the Philippines on landslides have primarily focused on susceptibility mapping and generation of hazard maps. Whereas, research on landslide forecasting remains less explored. As artificial intelligence continues to progress, forecasting methods have become more advanced, allowing opportunities to predict landslide occurrences before they happen. 
+The project focuses combining rainfall, a primary triggering factor of landslides, along with environmental variables such as slope, soil type, and soil moisture to predict potential landslide events. The project applied the random forest model, a type of machine learning model to forecast landslides using this minimized yet significant set of predictors. 
 
-The study focuses on rainfall, a primary triggering factor of landslides, examining its relationship with environmental variables such as slope, soil type, and soil moisture to predict potential landslide events. The study applies the random forest model to forecast landslides using a minimized yet significant set of predictors. 
+One-Way ANOVA was conducted to assess differences in model performance under various combinations of input variables, followed by post hoc tests to determine the most effective predictive variables. The team had then found out that combining rainfall and environmental variables as predictors yielded the highest accuracy at 90%, outperforming models that use only individual variable inputs. These findings demonstrate the effectiveness of the random forest model in forecasting landslides even with limited resources and data.
 
-One-Way ANOVA was conducted to assess differences in model performance under various combinations of input variables, followed by post hoc tests to determine the most effective predictive variables. The researchers found out that combining rainfall and environmental variables as predictors yielded the highest accuracy at 90%, outperforming models that use only individual variable inputs. These findings demonstrate the effectiveness of the random forest model in forecasting landslides even with limited resources and data.
+Through the use of our Landslide Forecasting Platform, communities would be more prepared. Learning how to be proactive instead of reactive by predicting landslide occurences at a specific day and time. This also provides a historical landslide data which are prevalent for future reference and advance planning. This is especially beneficial for Disaster Risk Reduction and Management Council and related agencies.
+
 ## Built With
 
 *   **Framework:** Flask
@@ -109,3 +114,13 @@ You should see output indicating the Flask server is running.
 **3. Open the Application**
 
 you may open the HTML files directly, but ensure the backend server is running first to handle API requests
+
+
+
+## AI Disclosures
+
+**1. Gemini 2.5**
+-- The use of its API for the automatic report generation feature of the application
+-- Consult and help explain complex concepts regarding the in-depth integration of Machine Learning
+**2. ChatGPT**
+-- Used for further research and finding resources efficiently, but also making use and double checking the data gathered.
