@@ -129,3 +129,8 @@ you may open the HTML files directly, but ensure the backend server is running f
 -- Consult and help explain complex concepts regarding the in-depth integration of Machine Learning
 **2. ChatGPT**
 -- Used for further research and finding resources efficiently, but also making use and double checking the data gathered.
+
+
+
+To access the Web Application just visit the link:
+https://www.twostepsahead.site/
